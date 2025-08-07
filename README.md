@@ -1,5 +1,7 @@
-# AITutor
-Customised AI Tutor using OPENAI GPT
+# AI Tutor
+Customised AI Tutor using OPENAI GPT.
+To learn more about how to customise the GPT instructions: https://help.openai.com/en/articles/9358033-key-guidelines-for-writing-instructions-for-custom-gpts.
+
 
 ## STEPS (on the server from the root folder):
 
