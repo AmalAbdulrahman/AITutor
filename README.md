@@ -14,5 +14,6 @@ To learn more about how to customise the GPT instructions: https://help.openai.c
 ## Sync files between the server and local machine (wsl):
 
 If your project folder is in c:\\
-rsync -avz -e "ssh -i ~/.ssh/id_edXXXXX" <your-username-on-server>@<your-server-ip>:~/<root-folder>/instance /mnt/c/<project-folder-name>/
+
+$rsync -avz -e "ssh -i ~/.ssh/id_edXXXXX" <your-username-on-server>@<your-server-ip>:~/<root-folder>/instance /mnt/c/<project-folder-name>/
 
